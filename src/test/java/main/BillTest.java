@@ -35,7 +35,7 @@ public class BillTest {
 		
 		//not negative check
 		//fail("Not yet implemented");
-		 assertEquals(720,c.calcBill());
+		 assertEquals(240,c.calcBill());
 	}/*
  * CHANGING OF TEST FILES MAY LEAD TO DISQUALIFICATION OF YOUR PROJECT !!!
  * 	
@@ -62,7 +62,7 @@ public class BillTest {
 		//not negative check
 		
 		//fail("Not yet implemented");
-		 assertEquals(3160,c1.calcBill());
+		 assertEquals(80,c1.calcBill());
 	}
 
 }
